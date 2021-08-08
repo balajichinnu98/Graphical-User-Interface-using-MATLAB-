@@ -1,2 +1,2 @@
 # GUI-
-creating a basic gui using matlab code 
+creating a gui using matlab code 
