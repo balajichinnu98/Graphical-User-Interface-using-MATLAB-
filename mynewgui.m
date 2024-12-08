@@ -1,3 +1,5 @@
+// for github samples 
+
 function varargout = mynewgui(varargin)
 % MYNEWGUI MATLAB code for mynewgui.fig
 %      MYNEWGUI, by itself, creates a new MYNEWGUI or raises the existing
